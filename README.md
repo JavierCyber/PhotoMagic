@@ -1,0 +1,2 @@
+# PhotoMagic
+Proyecto
